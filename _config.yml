@@ -7,22 +7,22 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "MS"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "YIWEI ZHANG"
+description              : &description "My husband is a big idiot!"
 url                      : https://yiwei-zyw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yiwei-zyw/yiwei-zyw.github.io"
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dr.Sean's Wife"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   pronouns         : # example: "she/her"
-  location         : "Location"
-  orcid            : "http://orcid.org/yourorcidurl"
+  location         : "New Zealand"
+  orcid            : "https://www.drselections.co.nz/"
   employer         :
   email            :  
   uri              :
